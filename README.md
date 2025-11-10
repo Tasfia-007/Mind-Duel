@@ -274,8 +274,9 @@ This project demonstrates:
 This project is open source and available for educational purposes.
 
 ## 👨‍💻 Author
-Tasfia Zaman Samiha
+Tasfia Zaman Samiha  
 Farzana Rahman Ani
+
 
 ---
 
