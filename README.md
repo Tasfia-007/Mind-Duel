@@ -4,7 +4,8 @@
 
 A strategic AI vs AI battle game featuring **Fuzzy Logic** and **A\* Pathfinding** algorithms. Watch intelligent agents with unique personalities compete in turn-based combat!
 
-![Mind Duel Banner](assets/Game Ui.png)
+![Mind Duel Banner](assets/Game_Ui.png)
+
 
 ## 🎯 Game Overview
 
@@ -151,14 +152,14 @@ score = base_score + fuzzy_modifier + astar_modifier + personality_modifier + ra
 ## 🎨 User Interface
 
 ### Main Menu
-![Main Menu](assets/Mian Menu.png)
+![Main Menu](assets/Mian_Menu.png)
 - Three matchup options:
   - Berserker vs Tacticians
   - Tactician vs Opportunist
   - Berserker vs Opportunist
 
 ### Game Screen
-![Game Screen](assets/Game Ui(2).png)
+![Game Screen](assets/Game_Ui(2).png)
 
 **Left Panel - Game Board**:
 - 5×5 grid with visual cell borders
@@ -268,25 +269,13 @@ This project demonstrates:
 5. **Animation**: Smooth interpolation and visual feedback
 6. **OOP Design**: Clean class structure and separation of concerns
 
-## 🔮 Future Enhancements
-
-Potential improvements:
-- [ ] Player vs AI mode
-- [ ] Additional AI personalities
-- [ ] Larger board sizes
-- [ ] Special abilities system
-- [ ] Tournament mode with multiple matches
-- [ ] Machine learning integration
-- [ ] Network multiplayer
-- [ ] Custom map editor
-
 ## 📝 License
 
 This project is open source and available for educational purposes.
 
 ## 👨‍💻 Author
-
-Created as a demonstration of AI algorithms in game development.
+Tasfia Zaman Samiha
+Farzana Rahman Ani
 
 ---
 
